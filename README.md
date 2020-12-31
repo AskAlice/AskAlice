@@ -1,4 +1,4 @@
-`# Hi! I'm Alice ✨ I'm a Web Engineer specializing in visualization and interactivity
+# Hi! I'm Alice ✨ I'm a Web Engineer specializing in visualization and interactivity
 
 I love using: [react-three-fiber](https://github.com/pmndrs/react-three-fiber), [three.js](https://github.com/mrdoob/three.js/), [lottie](https://github.com/airbnb/lottie-web), [figma](https://www.figma.com/), [laravel](https://laravel.com/), websockets, WebRTC, openpilot.
 <p align="center">
