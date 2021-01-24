@@ -13,4 +13,3 @@ I love using: [react-three-fiber](https://github.com/pmndrs/react-three-fiber), 
     <img width="100%" src="https://emu.bz/Pli.gif" />
 </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AskAlice" />
