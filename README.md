@@ -8,5 +8,5 @@ I love using: [react-three-fiber](https://github.com/pmndrs/react-three-fiber), 
 <a href="https://alice.engineer/paradox">
     <img width="40%" src="https://emu.bz/paradox.gif" />
 </a>
-<a href="https://viz.emu.sh/"><img width="100%" src="https://emu.bz/midi.gif" /></a>
-<a href="https://alice.engineer/mandala"><img width="100%" src="https://emu.bz/Pli.gif" /></a></p>
+<a href="https://viz.emu.sh/"><img width="60%" src="https://emu.bz/midi.gif" /></a>
+<a href="https://alice.engineer/mandala"><img width="70%" src="https://emu.bz/Pli.gif" /></a></p>
