@@ -6,7 +6,7 @@ I love using: [react-three-fiber](https://github.com/pmndrs/react-three-fiber), 
 <img width="50%" src="https://emu.bz/UsR.gif" />
 </a>
 <a href="https://alice.engineer/paradox">
-    <img width="40%" src="https://thumbs.gfycat.com/DecisiveLateArgali-size_restricted.gif" />
+    <img width="40%" src="https://emu.bz/paradox.gif" />
 </a>
-<a href="https://viz.emu.sh/"><img width="100%" src="https://thumbs.gfycat.com/JampackedOrneryJaeger-size_restricted.gif" /></a>
+<a href="https://viz.emu.sh/"><img width="100%" src="https://emu.bz/midi.gif" /></a>
 <a href="https://alice.engineer/mandala"><img width="100%" src="https://emu.bz/Pli.gif" /></a></p>
