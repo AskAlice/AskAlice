@@ -1,4 +1,4 @@
-# Hi! I'm Alice ✨ I'm a Web Engineer specializing in visualization, UX, and web design
+# Hi! I'm Alice ✨ I'm a Web Engineer specializing in data visualization, UX, DevOps, Kubernetes, and design
 
 I love using: [react-three-fiber](https://github.com/pmndrs/react-three-fiber), [three.js](https://github.com/mrdoob/three.js/), [lottie](https://github.com/airbnb/lottie-web), [figma](https://www.figma.com/), [laravel](https://laravel.com/), websockets, WebRTC, openpilot.
 <p align="center">
