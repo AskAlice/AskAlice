@@ -2,6 +2,9 @@
 
 I love using: [react-three-fiber](https://github.com/pmndrs/react-three-fiber), [three.js](https://github.com/mrdoob/three.js/), [lottie](https://github.com/airbnb/lottie-web), [figma](https://www.figma.com/), [laravel](https://laravel.com/), websockets, WebRTC, openpilot.
 <p align="center">
+<a href="https://github.com/AskAlice/threejs-grass">
+    <img width="60%" src="threejs-grass.gif" alt="threejs-grass: infinite WebGPU grass for three.js and React Three Fiber" />
+</a>
 <a href="https://section.io/">
 <img width="50%" src="https://emu.bz/UsR.gif" />
 </a>
